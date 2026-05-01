@@ -1,2 +1,2 @@
 #  Digital Fitness Market Analysis
-![Market Analysis](market analysis.png)
+![Market Analysis](market_analysis.png)
